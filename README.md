@@ -1,7 +1,3 @@
-# Vicente Ramos - CyberSecurity Programming
-
-# CSCI 5742
-
 ## Website is live at [NVD Deep Dive](https://nvd-deep-dive-43da4b2ca784.herokuapp.com/)
 
 ## Setup
