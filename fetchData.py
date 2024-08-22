@@ -51,6 +51,6 @@ def fetch_and_save_cves(api_key):
             break
 
 
-api_key = "dd12d0e6-5f9a-4503-9828-b73989cdf27b"
+api_key = ""
 
 fetch_and_save_cves(api_key)
