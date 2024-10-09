@@ -3,8 +3,6 @@ from Analysis import analyze_search_string
 import os
 import json
 
-# port = int(os.environ.get("PORT", 5000))
-
 app = Flask(__name__)
 
 
